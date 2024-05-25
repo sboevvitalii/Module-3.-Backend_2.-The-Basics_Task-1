@@ -1,0 +1,20 @@
+{
+  "name": "note-task-1",
+  "version": "1.0.0",
+  "description": "Module 3. Backend-2. The Basics-Task #1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "add",
+    "list",
+    "remove"
+  ],
+  "author": "Sboev",
+  "license": "ISC",
+  "dependencies": {
+    "@types/yargs": "^17.0.32",
+    "yargs": "^17.7.2"
+  }
+}
